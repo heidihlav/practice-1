@@ -3,3 +3,4 @@ This is my readme within my practice directory inside my new directory - top lev
 Yay! I found my README! *celebrates* 😊 
 
 There actually was a minor typo.
+practice-2
